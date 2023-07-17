@@ -2,6 +2,8 @@
 
 I am a data scientist and computational biologist, with a strong academic background in Molecular and Cell Biology and Data Science from the University of California, Berkeley. I have a proven industry experience of 3+ years in leveraging  machine learning techniques, multi-omics data analysis, and state-of-the-art bioinformatics tools to drive innovative data-driven solutions.
 
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/rishabhgoe/)
+
 
 ## 🔬 Postdoc Projects:
 1. **Reducing Opioid Overprescription:** Implemented prescription guidelines and provider interventions to measure and mitigate the overconsumption of opioids post-surgery.
