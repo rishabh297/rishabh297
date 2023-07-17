@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Rishabh
 
-I'm a data scientist and computational biologist, with a strong academic background in Molecular and Cell Biology, Data Science, and Business Administration from the University of California, Berkeley. With over 3 years of industry experience, I specialize in leveraging machine learning techniques, multi-omics data analysis, and state-of-the-art bioinformatics tools to build innovative data-driven solutions.
+I'm a data scientist and computational biologist, with a strong academic background in  Data Science, Molecular and Cell Biology, and Business Administration from the University of California, Berkeley. With over 3 years of industry experience, I specialize in leveraging machine learning techniques, multi-omics data analysis, and state-of-the-art bioinformatics tools to build innovative data-driven solutions.
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/rishabhgoe/)
 
