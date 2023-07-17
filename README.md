@@ -5,7 +5,7 @@ I am a data scientist and computational biologist, with a strong academic backgr
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/rishabhgoe/)
 
 
-## 🔬 Postgrad Projects:
+## 🔬 Bioinformatics Projects:
 1. **Neural ODEs for Pharmacokinetics (PK) Modeling:** Implemented a neural network model for state-of-the-art PK Modeling
 2. **Multi-omics Data Analysis Pipeline:** Developed a pipeline to analyze next-generation sequencing (NGS) experiment data
 3. **Bioinformatics Target Identification Tool:** Built a bioinformatics tool to analyze genomics data from Single cell/Bulk RNA Sequencing Experiments
