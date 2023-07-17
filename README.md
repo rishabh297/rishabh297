@@ -9,7 +9,7 @@ I am a data scientist and computational biologist, with a strong academic backgr
 1. **Neural ODEs for Pharmacokinetics (PK) Modeling:** Implemented a neural network model for state-of-the-art PK Modeling
 2. **Multi-omics Data Analysis Pipeline:** Developed a pipeline to analyze next-generation sequencing (NGS) experiment data
 3. **Bioinformatics Target Identification Tool:** Built a bioinformatics tool to analyze genomics data from Single cell and Bulk RNA Sequencing
-4. **Early Detection of ARDS Subphenotypes Using ML:** Designed an ML Model to detect ARDS patient subphenotypes using baseline data
+4. **Early Detection of ARDS Subphenotypes Using ML:** Designed an ML Model to detect ARDS patient subphenotypes with baseline data
 
 ## 🎓 Business Projects:
 1. **Hate Speech Analysis:** Developed interval variables via faceted Rasch measurement and multitask deep learning to understand hate speech dynamics.
