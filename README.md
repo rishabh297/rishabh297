@@ -8,8 +8,8 @@ I am a data scientist and computational biologist, with a strong academic backgr
 ## 🔬 Postgrad Projects:
 1. **Neural ODEs for Pharmacokinetics (PK) Modeling:** Implemented a neural network model for state-of-the-art PK Modeling
 2. **Multi-omics Data Analysis Pipeline:** Developed a pipeline to analyze next-generation sequencing (NGS) experiment data
-3. **Bioinformatics Target Identification Tool:** Built a bioinformatics tool to analyze genomics data from Single cell and Bulk RNA sequencing
-4. **Early Detection of ARDS Subphenotypes Using ML:** Designed an ML Model to accurately detect ARDS subphenotypes at baseline
+3. **Bioinformatics Target Identification Tool:** Built a bioinformatics tool to analyze genomics data from Single cell and Bulk RNA Sequencing
+4. **Early Detection of ARDS Subphenotypes Using ML:** Designed an ML Model to accurately detect ARDS subphenotypes using baseline clinical data
 
 ## 🎓 Business Projects:
 1. **Hate Speech Analysis:** Developed interval variables via faceted Rasch measurement and multitask deep learning to understand hate speech dynamics.
@@ -18,7 +18,7 @@ I am a data scientist and computational biologist, with a strong academic backgr
 
 ## 🔭 Additional Projects:
 1. **Molecular Cell Atlas of the Human Lung:** Conducted analysis of Single-cell gene expression data of 116,314 cells from 20 frozen lungs
-2. **Biomarkers for Kidney Antibody-mediated Rejection (ABMR):** Identified key pathways associated with ABMR using Bulk RNA-Seq Data
+2. **Biomarkers for Kidney Antibody-mediated Rejection (ABMR):** Identified pathways and genes in ABMR Using Bulk RNA-Seq Data
 
 I'm always looking for ways to drive innovation through data. Let's connect and explore how we can collaborate on your next project.
 
