@@ -8,13 +8,13 @@ I am a data scientist and computational biologist, with a strong academic backgr
 ## 🔬 Postgrad Projects:
 1. **Neural ODEs for Pharmacokinetics (PK) Modeling:** Implemented a neural network model for state-of-the-art PK Modeling
 2. **Multi-omics Data Analysis Pipeline:** Developed a pipeline to analyze next-generation sequencing (NGS) experiment data
-3. **Bioinformatics Target Identification Tool:** Built a bioinformatics tool to analyze genomics data from Single cell/Bulk RNA Sequencing
-4. **Early Detection of ARDS Subphenotypes Using ML:** Designed an ML Model to detect ARDS patient subphenotypes with baseline clinical data
+3. **Bioinformatics Target Identification Tool:** Built a bioinformatics tool to analyze genomics data from Single cell/Bulk RNA Sequencing Experiments
+4. **Early Detection of ARDS Subphenotypes Using ML:** Designed an ML Model to detect ARDS patient subphenotypes using baseline clinical data from Electronic Health Records
 
 ## 🎓 Business Projects:
-1. **Hate Speech Analysis:** Developed interval variables via faceted Rasch measurement and multitask deep learning to understand hate speech dynamics.
-2. **Causal Inference of Chemical Exposures:** Devised a targeted learning method for the causal inference of multiple treatment exposures to chemicals.
-3. **Heart Attack Risk Prediction:** Constructed a nested ensemble clinical model to predict heart attack risk from electronic health records.
+1. **Credit Karma Longitudinal Car Sales Forecast:** Constructed an LSTM model to forecast future sales trends using from longitudinal data from 500,000+ used car purchase transactions
+2. **Customer Churn Patterns Analysis in Telecommunications Industry:** Analyzed time-series data on customer churn patterns for a telecommunications company
+3. **Northwestern Mutual Millennial Client Demographic Data:** Generated dynamic descriptive visualizations on millennium client demographic data
 
 ## 🔭 Additional Projects:
 1. **Molecular Cell Atlas of the Human Lung:** Conducted analysis of Single-cell gene expression data of 116,314 cells from 20 frozen lungs
