@@ -6,9 +6,10 @@ I am a data scientist and computational biologist, with a strong academic backgr
 
 
 ## 🔬 Postgrad Projects:
-1. **Neural ODEs for Pharmacokinetics (PK) Modeling:** Implemented a neural network model to improve state-of-the-art PK Modeling
-2. **Multi-omics Data Analysis Pipeline:** Developed a data pipeline to analyze data from next-generation sequencing (NGS) experiments
-3. **Bioinformatics Target Identification Tool:** Built a bioinformatics tool to analyze genomics data from Sc/Bulk RNA sequencing
+1. **Neural ODEs for Pharmacokinetics (PK) Modeling:** Implemented a neural network model for state-of-the-art PK Modeling
+2. **Multi-omics Data Analysis Pipeline:** Developed a pipeline to analyze next-generation sequencing (NGS) experiment data
+3. **Bioinformatics Target Identification Tool:** Built a bioinformatics tool to analyze genomics data from Single cell and Bulk RNA sequencing
+4. **Early Detection of ARDS Subphenotypes Using ML:** Designed an ML Model to accurately detect ARDS subphenotypes at baseline
 
 ## 🎓 Business Projects:
 1. **Hate Speech Analysis:** Developed interval variables via faceted Rasch measurement and multitask deep learning to understand hate speech dynamics.
@@ -16,8 +17,8 @@ I am a data scientist and computational biologist, with a strong academic backgr
 3. **Heart Attack Risk Prediction:** Constructed a nested ensemble clinical model to predict heart attack risk from electronic health records.
 
 ## 🔭 Additional Projects:
-1. **Molecular Cell Atlas of the Human Lung:** Utilized multi-modal deep learning to track social media marketing of e-cigarettes (vaping) targeted at teenagers.
-2. **Biomarkers for Kidney Antibody-mediated Rejection (ABMR):** Developed a causally-motivated, nonparametric software to gauge variable importance.
+1. **Molecular Cell Atlas of the Human Lung:** Conducted analysis of Single-cell gene expression data of 116,314 cells from 20 frozen lungs
+2. **Biomarkers for Kidney Antibody-mediated Rejection (ABMR):** Identified key genes and pathways associated with ABMR using Bulkm RNA-Seq Data
 
 I'm always looking for ways to drive innovation through data. Let's connect and explore how we can collaborate on your next project.
 
