@@ -18,7 +18,7 @@ I am a data scientist and computational biologist, with a strong academic backgr
 
 ## 🔭 Additional Projects:
 1. **Molecular Cell Atlas of the Human Lung:** Conducted analysis of Single-cell gene expression data of 116,314 cells from 20 frozen lungs
-2. **Biomarkers for Kidney Antibody-mediated Rejection (ABMR):** Identified key genes and pathways associated with ABMR using Bulkm RNA-Seq Data
+2. **Biomarkers for Kidney Antibody-mediated Rejection (ABMR):** Identified key pathways associated with ABMR using Bulk RNA-Seq Data
 
 I'm always looking for ways to drive innovation through data. Let's connect and explore how we can collaborate on your next project.
 
